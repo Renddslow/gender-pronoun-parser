@@ -1,0 +1,14 @@
+{
+  "name": "gender-pronoun-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://Renddslow@github.com/Renddslow/gender-pronoun-parser.git",
+  "author": "Matt McElwee <mubatt@wyopub.com>",
+  "license": "VOL",
+  "devDependencies": {
+    "tape": "^4.9.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  }
+}
